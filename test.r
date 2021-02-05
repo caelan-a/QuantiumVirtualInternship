@@ -1,9 +1,3 @@
 library(data.table)
-library(readxl)
-
-
-transactionData <- read_excel("QVI_transaction_data.xlsx", sheet = "in")
-
-# Data Quality
-#
-print(head(transactionData))
+a <- data.table(Store1 = numeric(), Store2 = numeric(), corr_measure = numeric())
+str(a)
