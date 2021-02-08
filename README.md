@@ -3,7 +3,7 @@
 Quantium provides this program.
 
 ## [Certificate of Completion](https://insidesherpa.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_9psr89RMi2XjLTD56_completion_certificate.pdf) 
-![image](https://user-images.githubusercontent.com/52568892/97493639-46654300-1933-11eb-85d6-b2a93f0ca064.png)
+![image]()
 
 ## Who is Quantium?
 
