@@ -304,7 +304,7 @@ customersBySegment <- customerData[,.N,by=c('LIFESTAGE', 'PREMIUM_CUSTOMER')]
 p <- ggplot(data = customersBySegment) +
 geom_mosaic(aes(weight = N, x = product(PREMIUM_CUSTOMER, LIFESTAGE),
 fill = PREMIUM_CUSTOMER)) +
-labs(x = "Lifestage", y = "Premium customer flag", title = "Proportion of sales") +
+labs(x = "Lifestage", y = "Premium customer flag", title = "Customer Segment Breakdown") +
 theme(axis.text.x = element_text(angle = 90, vjust = 0.5))
 
 #### Plot and label with proportion of sales
